@@ -1,4 +1,6 @@
 # hello this is test
 
 added message1
-added message2
+(message2 deleted)
+
+added message3
